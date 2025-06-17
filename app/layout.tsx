@@ -1,6 +1,5 @@
 import type React from "react"
 import { ThemeProvider } from "@/components/theme-provider"
-import { geist } from "./fonts"
 import "./globals.css"
 
 export default function RootLayout({
@@ -10,7 +9,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${geist.className} antialiased`}>
+      <body>
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange={false}>
           {children}
         </ThemeProvider>

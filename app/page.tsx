@@ -7,7 +7,7 @@ import {
   ArrowRightIcon,
   ChartBarIcon,
   ServerIcon,
-  CpuChipIcon,
+  CircleStackIcon,
   DocumentTextIcon,
   CheckIcon,
 } from "@heroicons/react/24/outline"
@@ -31,7 +31,7 @@ export default function HomePage() {
                 <span className="font-normal">Benchmarks</span>
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-3xl mx-auto">
-                Developing comprehensive performance metrics and optimization strategies for distributed edge computing
+                Developing comprehensive performance metrics and optimization strategies for edge computing
                 infrastructures.
               </p>
             </div>
@@ -102,12 +102,12 @@ export default function HomePage() {
               <CardContent className="p-8">
                 <div className="mb-6">
                   <div className="w-12 h-12 bg-blue-500/20 rounded-lg flex items-center justify-center mb-4">
-                    <CpuChipIcon className="h-6 w-6 text-blue-400" />
+                    <CircleStackIcon className="h-6 w-6 text-blue-400" />
                   </div>
-                  <h3 className="text-xl font-medium text-black dark:text-white mb-3">Performance Benchmarking</h3>
+                  <h3 className="text-xl font-medium text-black dark:text-white mb-3">Data Collection</h3>
                 </div>
                 <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                  Standardized evaluation metrics across different hardware configurations and network conditions.
+                  Collect data on the compute metrics that are vital in running popular applications in Edge Platoforms. 
                 </p>
               </CardContent>
             </Card>
