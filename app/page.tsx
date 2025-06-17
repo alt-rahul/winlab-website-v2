@@ -151,7 +151,7 @@ export default function HomePage() {
             <Card className="bg-transparent border-none hover:bg-gray-100 dark:hover:bg-gray-900/50 transition-all duration-300">
               <CardContent className="p-0">
                 <Link
-                  href="https://github.com"
+                  href="https://github.com/alt-rahul/5g-edge-app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-between p-6 group"
