@@ -7,16 +7,16 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 
 const teamMembers = [
   {
-    name: "Dr. Sarah Chen",
+    name: "Rahul Rajkumar",
     role: "Principal Investigator",
     image: "/placeholder.svg?height=300&width=300",
     description:
-      "Leading researcher in distributed computing systems with over 10 years of experience in edge computing architectures and performance optimization.",
+      "Rising sophomore at Rutgers majoring in CS + Math. Interested in ML/AI research related to computer vision and time series. ",
     expertise: ["Edge Computing", "Performance Analysis", "Distributed Systems"],
     links: {
-      github: "https://github.com",
-      linkedin: "https://linkedin.com",
-      email: "sarah.chen@university.edu",
+      github: "https://github.com/alt-rahul",
+      linkedin: "https://linkedin.com/rahulrajkumar01",
+      email: "rahulrajkumar@rutgers.edu",
     },
   },
   {
