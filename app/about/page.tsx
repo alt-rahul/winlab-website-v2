@@ -12,7 +12,7 @@ const teamMembers = [
     image: "/placeholder.svg?height=300&width=300",
     description:
       "Rising sophomore at Rutgers majoring in CS + Math. Interested in ML/AI research related to computer vision and time series. ",
-    expertise: ["Edge Computing", "Performance Analysis", "Distributed Systems"],
+    expertise: ["Machine/Deep Learning", "Data Science",],
     links: {
       github: "https://github.com/alt-rahul",
       linkedin: "https://linkedin.com/rahulrajkumar01",
@@ -20,29 +20,29 @@ const teamMembers = [
     },
   },
   {
-    name: "Alex Rodriguez",
+    name: "Andrew Micheal",
     role: "Research Engineer",
     image: "/placeholder.svg?height=300&width=300",
     description:
-      "PhD candidate focusing on network optimization and latency reduction in edge computing environments with expertise in system architecture.",
-    expertise: ["Network Optimization", "System Architecture", "Open Source Development"],
+      "Rising junior at Rutgers majoring in ECE. Intersted in cybersec and cloud.",
+    expertise: ["Cloud Infra", "Edge Compute",],
     links: {
-      github: "https://github.com",
-      linkedin: "https://linkedin.com",
-      email: "alex.rodriguez@university.edu",
+      github: "https://gitlab.orbit-lab.org/Andrew2545",
+      linkedin: "https://https://www.linkedin.com/in/andrew-michael-014b07300/",
+      email: "andrew.micheal@rutgers.edu",
     },
   },
   {
-    name: "Maya Patel",
+    name: "Xiaotian Zhou",
     role: "Data Analyst",
     image: "/placeholder.svg?height=300&width=300",
     description:
-      "Specialist in data analysis and machine learning applications for edge computing, developing predictive models for resource allocation.",
-    expertise: ["Data Analysis", "Machine Learning", "Statistical Modeling"],
+      "First year PhD student at Rutgers. Very smart.",
+    expertise: ["Home Labs", "Cloud/Edge/DevOps", ],
     links: {
-      github: "https://github.com",
-      linkedin: "https://linkedin.com",
-      email: "maya.patel@university.edu",
+      github: "https://github.com/I-dont-know",
+      linkedin: "https://linkedin.com/xiaotian-zhou-b8b5381bb/",
+      email: "xz446@scarletmail.rutgers.edu",
     },
   },
 ]
