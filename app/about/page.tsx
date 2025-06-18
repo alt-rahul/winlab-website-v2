@@ -15,12 +15,12 @@ const teamMembers = [
     expertise: ["Machine/Deep Learning", "Data Science",],
     links: {
       github: "https://github.com/alt-rahul",
-      linkedin: "https://linkedin.com/rahulrajkumar01",
+      linkedin: "https://linkedin.com/in/rahulrajkumar01",
       email: "rahulrajkumar@rutgers.edu",
     },
   },
   {
-    name: "Andrew Micheal",
+    name: "Andrew Michael",
     role: "Research Engineer",
     image: "/placeholder.svg?height=300&width=300",
     description:
@@ -41,7 +41,7 @@ const teamMembers = [
     expertise: ["Home Labs", "Cloud/Edge/DevOps", ],
     links: {
       github: "https://github.com/I-dont-know",
-      linkedin: "https://linkedin.com/xiaotian-zhou-b8b5381bb/",
+      linkedin: "https://linkedin.com/in/xiaotian-zhou-b8b5381bb/",
       email: "xz446@scarletmail.rutgers.edu",
     },
   },
