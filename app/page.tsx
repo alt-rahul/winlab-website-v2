@@ -118,10 +118,10 @@ export default function HomePage() {
                   <div className="w-12 h-12 bg-green-500/20 rounded-lg flex items-center justify-center mb-4">
                     <ServerIcon className="h-6 w-6 text-green-400" />
                   </div>
-                  <h3 className="text-xl font-medium text-black dark:text-white mb-3">Latency Optimization</h3>
+                  <h3 className="text-xl font-medium text-black dark:text-white mb-3">Meaningful Benchmarks</h3>
                 </div>
                 <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                  Intelligent workload distribution and caching strategies for minimal latency.
+                  Intelligent calculation using GPU metrics to ouput a single value for testing the capability of the edge platform on using LLMs.
                 </p>
               </CardContent>
             </Card>

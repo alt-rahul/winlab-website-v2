@@ -9,7 +9,7 @@ const teamMembers = [
   {
     name: "Rahul Rajkumar",
     role: "Principal Investigator",
-    image: "/placeholder.svg?height=300&width=300",
+    image: "/rahul.jpg",
     description:
       "Rising sophomore at Rutgers majoring in CS + Math. Interested in ML/AI research related to computer vision and time series. ",
     expertise: ["Machine/Deep Learning", "Data Science",],
